@@ -2,4 +2,4 @@
 
 Netflix Redesign app
 
-![Image of Netflix Redesign Thumbnail](https://ibb.co/MMGW3yB)
+![Image of Netflix Redesign Thumbnail](https://github.com/ProtorixDev/images/blob/master/netflix-redesign.jpeg)
